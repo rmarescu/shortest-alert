@@ -1,0 +1,55 @@
+
+
+=== Run started at Sat 25 Jan 2025 21:33:06 PST ===
+21:33:07 📄 example.test.ts
+21:33:09 ● Click on `Show alert box`
+21:33:09   Screenshot saved to: /Users/rmarescu/code/rmarescu/shortest-alert/.shortest/screenshots/screenshot-2025-01-26T05-33-09-531Z.png
+21:33:09 
+21:33:09 🤖 Prompt: Test: "Click on `Show alert box`"
+21:33:09 Callback function:  [NO_CALLBACK]
+21:33:09 
+21:33:09 Expect:
+21:33:09 1. Alert is shown with text `I am an alert box!`[NO_CALLBACK]
+21:33:09 2. Close the alert[NO_CALLBACK]
+21:33:09 3. Text `You triggered and handled the alert dialog` is displayed below the alert button.[NO_CALLBACK]
+21:33:09 
+21:33:09 Current Page State:
+21:33:09 URL: https://testpages.herokuapp.com/styled/alerts/alert-test.html
+21:33:09 Title: Test Page For JavaScript Alerts
+21:33:10   Retry attempt 1/3
+21:33:15 
+21:33:15 🤖 Prompt: Test: "Click on `Show alert box`"
+21:33:15 Callback function:  [NO_CALLBACK]
+21:33:15 
+21:33:15 Expect:
+21:33:15 1. Alert is shown with text `I am an alert box!`[NO_CALLBACK]
+21:33:15 2. Close the alert[NO_CALLBACK]
+21:33:15 3. Text `You triggered and handled the alert dialog` is displayed below the alert button.[NO_CALLBACK]
+21:33:15 
+21:33:15 Current Page State:
+21:33:15 URL: https://testpages.herokuapp.com/styled/alerts/alert-test.html
+21:33:15 Title: Test Page For JavaScript Alerts
+21:33:16   Retry attempt 2/3
+21:33:26 
+21:33:26 🤖 Prompt: Test: "Click on `Show alert box`"
+21:33:26 Callback function:  [NO_CALLBACK]
+21:33:26 
+21:33:26 Expect:
+21:33:26 1. Alert is shown with text `I am an alert box!`[NO_CALLBACK]
+21:33:26 2. Close the alert[NO_CALLBACK]
+21:33:26 3. Text `You triggered and handled the alert dialog` is displayed below the alert button.[NO_CALLBACK]
+21:33:26 
+21:33:27 Current Page State:
+21:33:27 URL: https://testpages.herokuapp.com/styled/alerts/alert-test.html
+21:33:27 Title: Test Page For JavaScript Alerts
+21:33:28   ✗ failed
+21:33:28 
+21:33:28 Test Execution Error: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"}}
+21:33:28 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ 
+21:33:28 
+21:33:28  Tests          1 failed | 0 passed (1)
+21:33:28  Duration       21.07s
+21:33:28  Started at     9:33:07 p.m.
+21:33:28  Tokens         0 tokens (≈ $0.00)
+21:33:28 
+21:33:28  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
